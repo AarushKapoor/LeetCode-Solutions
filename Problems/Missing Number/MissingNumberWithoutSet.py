@@ -14,3 +14,5 @@ class Solution(object):
             ans -= num
 
         return ans
+
+        # return sum(range(len(nums) + 1)) - sum(nums)
